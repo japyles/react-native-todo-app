@@ -16,7 +16,7 @@
 
 ## Usage
 
-![home screen view](/assests/home-screen.png?raw=true)
+![alt text](https://github.com/japyles/react-native-todo-app/blob/main/assets/home-screen.png?raw=true)
 
 ```sh
 

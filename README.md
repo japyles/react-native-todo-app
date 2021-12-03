@@ -16,7 +16,7 @@
 
 ## Usage
 
-![Alt text](/assests/home-screen.png?raw=true)
+![home screen view](/assests/home-screen.png?raw=true)
 
 ```sh
 
